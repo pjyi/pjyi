@@ -4,6 +4,8 @@
 **pjyi/pjyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+
+--> 
 - I'm a computational linguist specializing in NLP, text analytics, and spoken language processing. I embrace the diversity of natural languages and enjoy collaborating with researchers from various research and linguistic backgrounds. I'm passionate about incorporating linguistic insights into building chatbots, speech synthesis, ASR, and ML-based NLP.
 
 
@@ -17,6 +19,5 @@ https://www.linkedin.com/in/paige-y-23ab45127/
 - ⚡ Some fun facts about me:
 I speak two varieties of Chinese and French fluently.
 :books: (bouquineuse :raised_hand:) I am currently on a murder mystery and suspense thriller kick. Authors whose work I’ve enjoyed include Tess Gerritsen, Alice Feeney, Jennifer Hillier, S.A. Cosby and Keigo Higashino.
-
---> D'ailleurs, chuis un peu droguée au café là, même que je m'en rends compte que c'est pas top pour   mais je peux pas m'en empêcher...
+D'ailleurs, chuis un peu droguée au café là, même que je m'en rends compte que c'est pas top pour   mais je peux pas m'en empêcher...
 
