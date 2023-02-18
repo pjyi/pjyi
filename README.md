@@ -14,7 +14,8 @@
 
 - 😄 Pronouns: She/Her/Elle
 -  Some fun facts about me:
-I speak two varieties of Chinese and French fluently.
+-  
+I speak French and two varieties of Chinese fluently.
 :books: (bouquineuse 🙋🏻‍♀️︎) I am currently on a murder mystery and suspense thriller kick. Authors whose work I’ve enjoyed include Tess Gerritsen, Alice Feeney, Jennifer Hillier, S.A. Cosby and Keigo Higashino.
 
 ☕️ 🍵 D'ailleurs, chuis un peu droguée au café là, même que je m'en rends compte que c'est pas top pour la santé, mais je peux pas m'en empêcher quoi, tant pis ...
