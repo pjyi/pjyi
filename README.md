@@ -5,7 +5,7 @@
 
 
 --> 
-- 👩🏻‍💻︎:speaking_head: :brain: I'm a computational linguist specializing in NLP, text analytics, and spoken language processing. I embrace the diversity of natural languages and enjoy collaborating with researchers from various research and linguistic backgrounds. I'm passionate about incorporating linguistic insights into building chatbots, speech synthesis, ASR, and ML-based NLP.
+- 👩🏻‍💻︎ I'm a computational linguist specializing in NLP, text analytics, and spoken language processing. I embrace the diversity of natural languages and enjoy collaborating with researchers from various research and linguistic backgrounds. I'm passionate about incorporating linguistic insights into building chatbots, speech synthesis, ASR, and ML-based NLP.
 
 
 - 📫 How to reach me: pjyishanshan@gmail.com 
