@@ -15,7 +15,7 @@
 -  Some fun facts about me:
 
 - I speak French and two varieties of Chinese fluently.
-:books: (bouquineuse 🙋🏻‍♀️︎) I am currently on a murder mystery and suspense thriller kick. 
+- :books: (bouquineuse 🙋🏻‍♀️︎) I am currently on a murder mystery and suspense thriller kick. 
 
 ☕️ 🍵 D'ailleurs, chuis un peu droguée au café là, même que je m'en rends compte que c'est pas top pour la santé, mais je peux pas m'en empêcher quoi, tant pis ...
 
